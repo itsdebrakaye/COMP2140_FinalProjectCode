@@ -1,0 +1,1 @@
+{"admin": {"password": "admin123", "role": "admin", "permissions": {"order_editing": true, "inventory_adding": true, "inventory_editing": true, "inventory_deleting": true, "user_permissions": true}}}
